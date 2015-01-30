@@ -21,6 +21,13 @@
 //////////////////////////////////////////
 //Worthless comments
 //
+/////////////
+//Still more comments after
+/* git config user.name "Matthew Bradshaw"
+ master~/Desktop/apps/TestGit2$ git config user.name
+ 
+ */
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
